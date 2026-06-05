@@ -103,7 +103,7 @@ Meticulous IT graduate with an **M.Sc. in Computer Science**, seeking a Cloud Su
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeswanthsansac&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=8b5cf6&point=FF9900&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeswanth&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=8b5cf6&point=FF9900&area=true" alt="  Contribution Graph" />
 </div>
 
 ---
