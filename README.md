@@ -90,8 +90,22 @@ Meticulous IT graduate with an **M.Sc. in Computer Science**, seeking a Cloud Su
 | <kbd>Best Cricketer of the Year</kbd> | Sankara College Athletics | <kbd>2022 – 2023</kbd> | Recognized for outstanding performance and leadership on the field. |
 
 ---
+## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Dynamic SVG Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yeswanthsansac&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Yeswanth's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeswanthsansac&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=FF9900&currStreakLabel=6366f1&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeswanthsansac&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=8b5cf6&point=FF9900&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 💡 Philosophy
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
