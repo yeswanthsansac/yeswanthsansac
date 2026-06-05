@@ -1,6 +1,8 @@
 <img src="./banner.png" width="100%">
-<h1 align="center">Hi there, I'm Yeswanth P! 👋</h1>
-<h3 align="center">☁️ Aspiring Cloud Support Engineer | AWS | Linux | Networking</h3>
+<h1 align="center">YESWANTH P</h1>
+<p align="center">
+Cloud Support Engineer • AWS • Linux • Networking
+</p>
 
 <!-- Static SVG Badges for Contact Info -->
 <p align="center">
