@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/8z3OqK5Zk5AAAAAd/clouds-sky.gif" alt="Realistic Daytime Cloud Animation Banner" width="100%" height="250" style="border-radius: 15px; object-fit: cover;">
 </div>
 
-<h1 align="center">Hi there, I'm Yeswanth P! 👋</h1>
+<h1 align="center"> I'm Yeswanth P! 👋</h1>
 <h3 align="center">☁️ Aspiring Cloud Support Engineer | AWS | Linux | Networking</h3>
 
 <p align="center">
