@@ -92,6 +92,15 @@ Meticulous IT graduate with an **M.Sc. in Computer Science**, seeking a Cloud Su
 | <kbd>Best Cricketer of the Year</kbd> | Sankara College Athletics | <kbd>2022 – 2023</kbd> | Recognized for outstanding performance and leadership on the field. |
 
 ---
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=999999&color=00D4FF&width=700&lines=Automate+what+repeats." />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=999999&color=8B5CF6&width=700&lines=Monitor+what+matters." />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=999999&color=FF9900&width=700&lines=Learn+continuously." />
+</p>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=999999&color=6366F1&center=true&vCenter=true&width=550&lines=GITHUB+ANALYTICS" />
 </p>
