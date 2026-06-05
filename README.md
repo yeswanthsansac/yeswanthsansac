@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/banner.png" width="100%">
-</p>
+<img src="./banner.png" width="100%">
 <h1 align="center">Hi there, I'm Yeswanth P! 👋</h1>
 <h3 align="center">☁️ Aspiring Cloud Support Engineer | AWS | Linux | Networking</h3>
 
