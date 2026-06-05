@@ -17,20 +17,20 @@ Cloud Support Engineer • AWS • Linux • Networking
   </a>
 </p>
 
----
-
-## 👨‍💻 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=999999&color=6366F1&center=true&vCenter=true&width=450&lines=ABOUT+ME" />
+</p>
 
 Meticulous IT graduate with an **M.Sc. in Computer Science**, seeking a Cloud Support role to leverage foundational knowledge in **AWS, Linux system administration, and network configuration**. Proven ability to troubleshoot IT environments, handle technical queries, and deliver reliable customer support.
 
 - 🔭 I’m currently focused on **Cloud Infrastructure, System Monitoring, and Incident Management**.
 - 🌱 Building deep expertise in **AWS Fundamentals, Automation Scripting, and Networking (TCP/IP)**.
-- 🏏 Beyond the terminal, I'm a passionate cricketer—having captained my college team—and enjoy unwinding with matches, Real Cricket 24, and Free Fire MAX.
+- 🏏 Beyond the terminal, I'm a passionate cricketer—having captained my college team—and enjoy unwinding with matches.
 - 📫 Reach out to me for: IT Support, Infrastructure Operations, or a good chat about cricket!
 
----
-
-## 🛠️ Technical Skills & Tools
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=999999&color=6366F1&center=true&vCenter=true&width=550&lines=TECHNICAL+SKILLS" />
+</p>
 
 **Cloud & OS:**
 <p align="left">
@@ -92,7 +92,9 @@ Meticulous IT graduate with an **M.Sc. in Computer Science**, seeking a Cloud Su
 | <kbd>Best Cricketer of the Year</kbd> | Sankara College Athletics | <kbd>2022 – 2023</kbd> | Recognized for outstanding performance and leadership on the field. |
 
 ---
-## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=999999&color=6366F1&center=true&vCenter=true&width=550&lines=GITHUB+ANALYTICS" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeswanthsansac&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=FF9900&currStreakLabel=6366f1&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
@@ -106,8 +108,9 @@ Meticulous IT graduate with an **M.Sc. in Computer Science**, seeking a Cloud Su
 
 ---
 
-## 💡 Philosophy
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=999999&color=6366F1&center=true&vCenter=true&width=450&lines=PHILOSOPHY" />
+</p>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
