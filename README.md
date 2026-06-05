@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/8z3OqK5Zk5AAAAAd/clouds-sky.gif" alt="Realistic Daytime Cloud Animation Banner" width="100%" height="250" style="border-radius: 15px; object-fit: cover;">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="3D Sparkle Animation Banner" width="100%" style="border-radius: 15px;">
 </div>
-
-<h1 align="center"> I'm Yeswanth P! 👋</h1>
+<h1 align="center">Hi there, I'm Yeswanth P! 👋</h1>
 <h3 align="center">☁️ Aspiring Cloud Support Engineer | AWS | Linux | Networking</h3>
 
+<!-- Static SVG Badges for Contact Info -->
 <p align="center">
   <a href="mailto:yeswanthyeswanth23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -94,5 +94,6 @@ Meticulous IT graduate with an **M.Sc. in Computer Science**, seeking a Cloud Su
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeswanthsansac&show_icons=true&theme=buefy&hide_border=true" alt="Yeswanth's GitHub Stats" />
+  <!-- GitHub Dynamic SVG Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yeswanthsansac&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Yeswanth's GitHub Stats" />
 </div>
