@@ -1,7 +1,7 @@
 <img src="./banner.png" width="100%">
 <h1 align="center">YESWANTH P</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cloud+Support+Engineer;AWS;Linux;Networking;MS365support" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cloud+Support+Engineer;AWS;Linux;Networking;MS365+support"alt="Typing SVG" />
 </p>
 <!-- Static SVG Badges for Contact Info -->
 <p align="center">
