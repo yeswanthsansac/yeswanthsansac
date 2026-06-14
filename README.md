@@ -41,7 +41,7 @@ Meticulous IT graduate with an **M.Sc. in Computer Science**, seeking a Cloud Su
 **Programming & Databases:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,java,mysql,bash,powershell&perline=15" alt="Programming SVG icons" />
+    <img src="https://skillicons.dev/icons?i=python,flask,java,mysql,bash,powershell&perline=15" alt="Programming SVG icons" />
   </a>
 </p>
 
