@@ -65,7 +65,7 @@ Meticulous IT graduate with an **M.Sc. in Computer Science**, seeking a Cloud Su
 
 | Certification / Training | Organization / Partner | Date / Status |
 | :--- | :--- | :--- |
-| <kbd>AWS Certified Cloud Certification & Tech Essentials</kbd> | AWS | <kbd>Jan 2026</kbd> |
+| <kbd>AWS Cloud Certification & Tech Essentials</kbd> | AWS | <kbd>Jan 2026</kbd> |
 | <kbd>Corporate Level Training: Django Framework</kbd> | Postulate *(Passed with Distinction)* | <kbd>2023 – 2024</kbd> |
 | <kbd>Python Programming, AI & Machine Learning</kbd> | Coursera & Microsoft | <kbd>2025</kbd> |
 | <kbd>Employability & Life Skills Training</kbd> | EIDOS | <kbd>Jun 2023</kbd> |
